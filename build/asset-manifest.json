@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/To-Do-App%20/static/css/main.3692b37d.css",
-    "main.js": "/To-Do-App%20/static/js/main.5a63fa6b.js",
-    "index.html": "/To-Do-App%20/index.html",
-    "main.3692b37d.css.map": "/To-Do-App%20/static/css/main.3692b37d.css.map",
-    "main.5a63fa6b.js.map": "/To-Do-App%20/static/js/main.5a63fa6b.js.map"
+    "main.css": "/CheckList-Redux/static/css/main.3692b37d.css",
+    "main.js": "/CheckList-Redux/static/js/main.5a63fa6b.js",
+    "index.html": "/CheckList-Redux/index.html",
+    "main.3692b37d.css.map": "/CheckList-Redux/static/css/main.3692b37d.css.map",
+    "main.5a63fa6b.js.map": "/CheckList-Redux/static/js/main.5a63fa6b.js.map"
   },
   "entrypoints": [
     "static/css/main.3692b37d.css",
