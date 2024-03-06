@@ -1,0 +1,55 @@
+.app-container h1{
+    text-align: center;
+}
+.input-field{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.input-field button{
+    margin-left: 15px;
+    border-radius: 5px;
+    background-color: rgb(0, 0, 0);
+    padding: 5px;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+    cursor: pointer
+    
+}
+.input-field input [type=text] {
+    border: 10px;
+    border-color: black;
+    background-color: rgb(201, 201, 235);
+    padding: 2px;
+    box-sizing: border-box
+
+}
+.app-container li button{
+    margin-left: 10px;
+    background-color: rgb(20, 12, 12);
+    padding: 5px;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+    cursor: pointer
+
+
+
+}
+.app-container li button:hover{
+    background-color: #da19da;
+    color: white;    
+}
+.input-field button:hover{
+    background-color: #da19da;
+    color: white;    
+} 
+
+.app-container li{
+    margin-bottom: 5px;
+}
